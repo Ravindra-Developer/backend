@@ -7,7 +7,6 @@ This is a **Node.js** backend application built using **Express.js** and **Mongo
 Ensure you have the following installed on your system:
 
 - **Node.js v20** (Download from [nodejs.org](https://nodejs.org/))
-- **MongoDB** (Ensure MongoDB is installed and running)
 
 ## Setup Instructions
 
